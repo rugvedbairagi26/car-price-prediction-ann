@@ -8,7 +8,7 @@ We aim to:
 •	Preprocess categorical and numerical data effectively
 •	Minimize error metrics like Mean Absolute Error (MAE) and Mean Squared Error (MSE)
 ________________________________________
-📁 Dataset Information
+📁 Dataset  Information
 Source: Kaggle - ANN Car Sales Price Prediction
 Features Include:
 •	Car_Name — Name of the car
