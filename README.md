@@ -67,15 +67,7 @@ seaborn
 scikit-learn
 tensorflow
 ▶️ Run the Project
-# Clone the repository
-git clone https://github.com/<your-username>/car-price-prediction-ann.git
-cd car-price-prediction-ann
 
-# Install required libraries
-pip install -r requirements.txt
-
-# Run the notebook
-jupyter notebook Car_Price_Prediction_ANN.ipynb
 ________________________________________
 🔍 Key Learnings
 •	Neural networks can model complex patterns in structured data
