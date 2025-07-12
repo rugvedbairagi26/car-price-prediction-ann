@@ -113,10 +113,15 @@ MAE is easier to interpret than MSE in price prediction
 ________________________________________
 📬 Author
 Rugved Bairagi
-B.E. CSE (2nd Year) | PCCOER | Aspiring AI Researcher 
+B.E. CSE (2nd Year) | PCCOER | Aspiring AI Researcher
+
 •	📧 rugvedbairagi26@email.com
+
 •	Rugvedbairagi264248@gmail.com 
+
 •	🔗 [LinkedIn](https://www.linkedin.com/in/rugved-bairagi-7882b5285/)
+
 •	🐦 [X / Twitter](https://x.com/vedbairagi_26)
+
 ________________________________________
 
